@@ -1,5 +1,4 @@
 # philosophers
-[![tclement's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl59lbrtc003009jqom2qgm4z/project/2202410)](https://github.com/JaeSeoKim/badge42)<br>
 ***This project focuses on the basics of threading a process and how to work on the same memory space. We learned how to make `threads` and discover the `mutex`***
 
 ## Project requirements
